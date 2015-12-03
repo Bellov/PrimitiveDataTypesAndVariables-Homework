@@ -1,0 +1,6 @@
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.csprojResolveAssemblyReference.cache

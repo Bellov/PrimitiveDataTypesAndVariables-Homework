@@ -1,0 +1,6 @@
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\18.NineDigitMagicNumbers\bin\Debug\18.NineDigitMagicNumbers.exe.config
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\18.NineDigitMagicNumbers\bin\Debug\18.NineDigitMagicNumbers.exe
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\18.NineDigitMagicNumbers\bin\Debug\18.NineDigitMagicNumbers.pdb
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\18.NineDigitMagicNumbers\obj\Debug\18.NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\18.NineDigitMagicNumbers\obj\Debug\18.NineDigitMagicNumbers.exe
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\18.NineDigitMagicNumbers\obj\Debug\18.NineDigitMagicNumbers.pdb

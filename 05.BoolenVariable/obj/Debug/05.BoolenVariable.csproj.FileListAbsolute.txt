@@ -1,0 +1,6 @@
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\05.BoolenVariable\bin\Debug\05.BoolenVariable.exe.config
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\05.BoolenVariable\bin\Debug\05.BoolenVariable.exe
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\05.BoolenVariable\bin\Debug\05.BoolenVariable.pdb
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\05.BoolenVariable\obj\Debug\05.BoolenVariable.csprojResolveAssemblyReference.cache
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\05.BoolenVariable\obj\Debug\05.BoolenVariable.exe
+F:\Develop\SoftUniHomeWork\PrimitiveDataTypesAndVariables-Homework\05.BoolenVariable\obj\Debug\05.BoolenVariable.pdb
